@@ -1,5 +1,4 @@
 <div align="left">
-# enso
 
 # Hey, my Name is Ensar 👋
 
