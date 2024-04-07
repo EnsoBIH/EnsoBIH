@@ -5,6 +5,7 @@
 
 ## Technologies & Frameworks
 
+<img src="https://img.shields.io/badge/Typescript?style=for-the-badge&logo=typescript" alt="typescript">
 <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js">
 <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS3">
